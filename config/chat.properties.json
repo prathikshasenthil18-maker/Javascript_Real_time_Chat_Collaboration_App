@@ -1,0 +1,7 @@
+{
+  "branch": "JS_FE22_BE20",
+  "frontend_node": 22,
+  "backend_node": 20,
+  "port": 3000,
+  "frontend_port": 5173
+}
