@@ -1,0 +1,14 @@
+node_modules/
+frontend_js/node_modules/
+backend_js/node_modules/
+frontend_js/dist/
+coverage/
+.nyc_output/
+reports/
+*.log
+.DS_Store
+.vite/
+_generate_chat.py
+_populate_all.ps1
+_populate_results.json
+__pycache__/
