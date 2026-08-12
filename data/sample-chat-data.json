@@ -1,0 +1,22 @@
+{
+  "rooms": [
+    {
+      "id": "general"
+    },
+    {
+      "id": "support"
+    }
+  ],
+  "messages": [
+    {
+      "roomId": "general",
+      "userId": "user:1001",
+      "text": "welcome"
+    },
+    {
+      "roomId": "support",
+      "userId": "user:1002",
+      "text": "need-help"
+    }
+  ]
+}
