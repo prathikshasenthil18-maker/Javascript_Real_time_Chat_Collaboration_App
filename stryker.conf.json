@@ -1,0 +1,12 @@
+{
+  "packageManager": "npm",
+  "reporters": ["json", "clear-text"],
+  "testRunner": "mocha",
+  "coverageAnalysis": "perTest",
+  "mochaOptions": { "spec": ["test/unit/chatMessage.spec.js"] },
+  "mutate": ["shared/src/ChatMessage.js"],
+  "jsonReporter": { "fileName": "reports/mutation/mutation.json" },
+  "timeoutMS": 20000,
+  "concurrency": 2,
+  "ignoreStatic": true
+}
