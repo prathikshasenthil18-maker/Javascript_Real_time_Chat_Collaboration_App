@@ -1,0 +1,7 @@
+:root { font-family: "Segoe UI", system-ui, sans-serif; color: #0f172a; background: #f8fafc; }
+body { margin: 0; }
+.card { max-width: 860px; margin: 2rem auto; background: #fff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.25rem; }
+.row { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
+input, button { padding: 0.5rem 0.75rem; border-radius: 8px; border: 1px solid #cbd5e1; }
+button { background: #0f766e; color: #fff; border: 0; cursor: pointer; }
+pre { background: #0b1020; color: #e2e8f0; padding: 1rem; border-radius: 8px; overflow: auto; }
