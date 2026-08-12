@@ -1,0 +1,7 @@
+Scenario 2 Split-Versions Chat Architecture
+Branch: JS_FE22_BE18
+Frontend Node: 22 (ES2024 / Node.js 22)
+Backend Node: 18 (ES2022 / Node.js 18)
+
+USER -> ChatDashboard(frontend_js) -> Chat API(backend_js)
+     -> MessageService -> RoomManager/Presence/MessageStore -> Response
