@@ -1,0 +1,13 @@
+{
+  "tool": "lizard",
+  "branch": "JS_FE24_BE18",
+  "frontend_node": 24,
+  "backend_node": 18,
+  "npm_script": "lizard",
+  "project_targets": [
+    "shared/**/*.js",
+    "backend_js/src/**/*.js"
+  ],
+  "linked_project": "Javascript Real-time Chat / Collaboration App",
+  "run_from": "repository root"
+}
